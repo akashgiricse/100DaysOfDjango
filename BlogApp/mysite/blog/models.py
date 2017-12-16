@@ -17,10 +17,10 @@ class Post(models.Model):
 	slug = models.SlugField(max_length=250, unique_for_date='published')
 	author = models.ForeignKey(User, related_name = 'blog_post')
 	body = models.TextField()
-	publish models.DataTimeField(default = timezone.now)
-	created = models.DataTimeField(auto_now_add=True)
-	updated = models.DataTimeField(auto_now = True)
-	status = modelsl.CharField(max_length=10, choices=STATUS_CHOICES, default='draft')
+	publish= models.DateTimeField(default = timezone.now)
+	created = models.DateTimeField(auto_now_add=True)
+	updated = models.DateTimeField(auto_now = True)
+	status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='draft')
 
 	class Meta:
 		ordering = ('-publish',)
