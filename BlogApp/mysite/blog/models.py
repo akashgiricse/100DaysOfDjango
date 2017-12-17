@@ -26,3 +26,10 @@ class Post(models.Model):
 		ordering = ('-publish',)
 	def __str__(self):
 		return self.title
+	objects = models.Manager() # default manager.
+	published = PublishedManager() # our custom manager.
+
+class PublishedManager(models.Manager):
+	def get_queryset(self):
+		return super(PublishedManager,self).get_queryset()\
+		.filter(status='published')
