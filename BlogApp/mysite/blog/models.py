@@ -29,6 +29,13 @@ class Post(models.Model):
 	objects = models.Manager() # default manager.
 	published = PublishedManager() # our custom manager.
 
+	def get_absolute_url(self):
+		return reverse('blog:post_detial',
+			args=[self.publish.year,
+			self.publish.strftime('%m'),
+			self.publish.strftime('%d'),
+			self.slug])
+
 class PublishedManager(models.Manager):
 	def get_queryset(self):
 		return super(PublishedManager,self).get_queryset()\
