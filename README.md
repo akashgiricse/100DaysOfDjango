@@ -10,3 +10,5 @@ I'll edit this README every day when I'll finish working for that day.
 (19/12/2017)
 ### Day005
 (20/12/2017)
+### Day006
+(21/12/2017)
