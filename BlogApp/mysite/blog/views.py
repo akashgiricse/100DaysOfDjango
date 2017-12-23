@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 from django.shortcuts import render, get_object_or_404
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.views.generic import ListView
-from django.core.mail import send_email
+from django.core.mail import send_mail
 
 from .forms import EmailPostForm
 from .models import Post
