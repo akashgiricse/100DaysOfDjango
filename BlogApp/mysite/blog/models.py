@@ -9,8 +9,7 @@ from django.core.urlresolvers import reverse
 # Create your models here.
 class PublishedManager(models.Manager):
 	def get_queryset(self):
-		return super(PublishedManager,self).get_queryset()\
-		.filter(status='published')
+		return super(PublishedManager,self).get_queryset().filter(status='published')
 
 class Post(models.Model):
 	STATUS_CHOICES=(
