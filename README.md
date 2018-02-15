@@ -3,9 +3,9 @@
 I'll edit this README every day when I'll finish working for that day.
 -------------------
 
-| Day      |         What I learned             |   Issues and their current status    |   Link (if available)       |
-|----------|------------------------------------|------------------------------------|-----------------------------|
-| Day001   | How to customize the way models are displayed in admin panel. Creating model Managers. How to create canonical URLs for models. How to add django's build in pagination. How to create class based view. Creating form | Form for sending email is not working (Status: Not fixed) | N/A |
+| Day      | Project Name |         What I learned             |   Issues and their current status    |   Link (if available)       |
+|----------|--------------|---------------------|------------------------------------|-------------------------------|
+| Day001   | Blog App     | How to customize the way models are displayed in admin panel. Creating model Managers. How to create canonical URLs for models. How to add django's build in pagination. How to create class based view. Creating form | Form for sending email is not working (Status: Not fixed) | N/A |
 ----------
 ### Screenshots
 ----------
