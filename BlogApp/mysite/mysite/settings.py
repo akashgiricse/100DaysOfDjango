@@ -122,7 +122,7 @@ STATIC_URL = '/static/'
 
 # Email
 EMAIL_HOST = 'smtp.gmail.com' 
-EMAIL_HOST_USER = 'buggyrango@gmail.com' 
-EMAIL_HOST_PASSWORD = 'BuggyRango@2311' 
+EMAIL_HOST_USER = 'user@admin.com' 
+EMAIL_HOST_PASSWORD = '******' 
 EMAIL_PORT = 587
 EMAIL_USE_TLS= True

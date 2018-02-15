@@ -1,4 +1,4 @@
-# Here I'll work on few django based web projects for 100 days continuously from 14-February-2017 to 25-May-2018.
+# Here I'll work on few django based web projects for 100 days continuously from 14-February-2018 to 25-May-2018.
 I'll edit this README every day when I'll finish working for that day.
 
 | Day      | Project Name |         What I learned             |   Issues and status (NF/F)   | Link        |
