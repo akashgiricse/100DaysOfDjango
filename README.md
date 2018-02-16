@@ -15,5 +15,7 @@ I'll edit this README every day when I'll finish working for that day.
 ![alt text](Screenshots/BlogApp/Screenshot1.png)
 **Detailed view of a post:**
 ![alt text](Screenshots/BlogApp/Screenshot2.png)
+**Now posts have tagging functionality**
+![alt text](Screenshots/BlogApp/Screenshot4.png)
 **Detailed view of a post with tagging and similar posts functionality**
 ![alt text](Screenshots/BlogApp/Screenshot3.png)
