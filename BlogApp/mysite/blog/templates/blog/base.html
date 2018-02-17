@@ -1,3 +1,4 @@
+{% load blog_tags %}
 {% load staticfiles %}
 <!DOCTYPE html>
 <html>
@@ -21,6 +22,9 @@
       </div>
       <div class="col-12 col-lg-4 bg-light">
           <h1>This is my blog</h1>
+          <h3>I've written {% total_posts %} posts so far.</h3>
+          <h4>Latest posts</h4>
+          {% show_latest_posts 3 %}
       </div>
     </div>
   </div>
