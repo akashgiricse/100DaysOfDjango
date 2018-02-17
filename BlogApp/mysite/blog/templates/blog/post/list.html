@@ -3,7 +3,7 @@
 {% block title %} My blog {% endblock %}
 
 {% block content %}
-<div class="container">
+
 	 <h1>My Blog</h1>
 	 {% if tag %}
 	 	<h2>Posts tagged with "{{ tag.name }}"</h2>
@@ -31,4 +31,3 @@
 	 {% endfor %}
 	 {% include "pagination.html" with page=posts %}
 	{% endblock%}
-</div>
