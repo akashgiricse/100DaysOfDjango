@@ -1,4 +1,5 @@
 {% extends "blog/base.html" %}
+{% load blog_tags %}
 <!DOCTYPE html>
 {% block title %} My blog {% endblock %}
 
@@ -8,8 +9,8 @@
 	 {% if tag %}
 	 	<h2>Posts tagged with "{{ tag.name }}"</h2>
 	 {% endif %}
-
 	 {% for post in posts %}
+	 	<hr>
 		 <h2>
 		 	<a href="{{ post.get_absolute_url }}">
 		 		{{post.title}}
@@ -27,7 +28,8 @@
 		 <p class="date text-danger">
 		 	Published {{ post.publish}} by {{ post.author }}
 		 </p>
-		 {{ post.body|truncatewords:30|linebreaks }}
+		 {{ post.body|markdown|truncatewords_html:30 }}
 	 {% endfor %}
+	 <hr>
 	 {% include "pagination.html" with page=posts %}
 	{% endblock%}

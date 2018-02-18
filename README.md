@@ -4,7 +4,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day      | Project Name |         What I learned             |   Issues and status (NF/F)   | Link        |
 |----------|--------------|------------------------------------|------------------------------|-------------|
 | Day001 <br> 14/02/2018  | Blog App     | How to customize the way models are displayed in admin panel. Creating model Managers. How to create canonical URLs for models. How to add django's build in pagination. How to create class based view. Creating form | 1. Form for sending email is not working (Status: Not fixed) | N/A |
-| Day002 <br> 15/02/2018 | Blog App | Difference between From and ModelForm. More template tag (like {% with %} etc.). Many-to-one relationship. | 1. (Status: NF) <br> 2. Fields in comment form is not auto cleaning after submitting the comment.(NF) | N/A |
+| Day002 <br> 15/02/2018 | Blog App | Difference between Form and ModelForm. More template tag (like {% with %} etc.). Many-to-one relationship. | 1. (Status: NF) <br> 2. Fields in comment form is not auto cleaning after submitting the comment.(NF) | N/A |
 | Day003 <br> 16/02/2018 | Blog App | I learned how to integrate third party app to the project. I used **[taggit](https://github.com/alex/django-taggit)** third-party Django tagging application. Build complex QuerySets to retrieve objects by similarity. More template tags practice. | 1. (Status: NF) <br> 2. (Status: NF) | N/A|
 | Day004 <br> 17/02/2018 | Blog App | Learned how to use custom tempate tags. | 1. NF <br> 2. NF | N/A|
 

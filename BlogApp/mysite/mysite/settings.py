@@ -122,8 +122,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Email
-EMAIL_HOST = 'smtp.gmail.com' 
-EMAIL_HOST_USER = 'user@admin.com' 
-EMAIL_HOST_PASSWORD = '******' 
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'user@admin.com'
+EMAIL_HOST_PASSWORD = '******'
 EMAIL_PORT = 587
-EMAIL_USE_TLS= True
+EMAIL_USE_TLS = True
