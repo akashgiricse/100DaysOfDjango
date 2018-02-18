@@ -15,12 +15,19 @@ I'll edit this README every day when I'll finish working for that day.
 #### 1. Blog App
 **Home page:**
 ![alt text](Screenshots/BlogApp/Screenshot1.png)
+
 **Detailed view of a post:**
 ![alt text](Screenshots/BlogApp/Screenshot2.png)
+
 **Now posts have tagging functionality**
 ![alt text](Screenshots/BlogApp/Screenshot4.png)
+
 **Detailed view of a post with tagging and similar posts functionality**
 ![alt text](Screenshots/BlogApp/Screenshot3.png)
+
 **List view with custom template tags**
 ![alt text](Screenshots/BlogApp/Screenshot5.png)
+**Homepage with custom template tags and filters.**
+![alt text](Screenshots/BlogApp/Screenshot6.png)
+
 
