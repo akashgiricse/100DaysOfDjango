@@ -27,7 +27,6 @@ I'll edit this README every day when I'll finish working for that day.
 
 **List view with custom template tags**
 ![alt text](Screenshots/BlogApp/Screenshot5.png)
+
 **Homepage with custom template tags and filters.**
 ![alt text](Screenshots/BlogApp/Screenshot6.png)
-
-
