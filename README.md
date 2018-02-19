@@ -8,6 +8,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day003 <br> 16/02/2018 | Blog App | I learned how to integrate third party app to the project. I used **[taggit](https://github.com/alex/django-taggit)** third-party Django tagging application. Build complex QuerySets to retrieve objects by similarity. More template tags practice. | 1. (Status: NF) <br> 2. (Status: NF) | N/A|
 | Day004 <br> 17/02/2018 | Blog App | Learned how to use custom tempate tags. | 1. NF <br> 2. NF | N/A|
 | Day005 <br> 18/02/2018 | Blog App | More practice on custom template tags. Learned how to use simple_tag, inclusion_tag, assignment_tag. How to use custom template filters, I used Markdown tempate filter. | 1. NF <br> 2. NF | N/A |
+| Day006 <br> 19/02/2018 | Blog App | Learned how to add a sitemep and it's importance to a site. How to configure and add RSS feed to the site. Started working on adding a search engine with Solr and Haystack | 1. NF <br> 2. NF | N/A |
 
 ----------
 ### Screenshots
@@ -30,3 +31,6 @@ I'll edit this README every day when I'll finish working for that day.
 
 **Homepage with custom template tags and filters.**
 ![alt text](Screenshots/BlogApp/Screenshot6.png)
+
+**Homepage with RSS feed subscription link. (RSS feed is functioning as you can see in the RSS extention)**
+![alt text](Screenshots/BlogApp/Screenshot7.png)
