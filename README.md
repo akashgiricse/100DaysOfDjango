@@ -9,7 +9,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day004 <br> 17/02/2018 | Blog App | Learned how to use custom tempate tags. | 1. NF <br> 2. NF | N/A|
 | Day005 <br> 18/02/2018 | Blog App | More practice on custom template tags. Learned how to use simple_tag, inclusion_tag, assignment_tag. How to use custom template filters, I used Markdown tempate filter. | 1. NF <br> 2. NF | N/A |
 | Day006 <br> 19/02/2018 | Blog App | Learned how to add a sitemep and it's importance to a site. How to configure and add RSS feed to the site. Started working on adding a search engine with Solr and Haystack | 1. NF <br> 2. NF | N/A |
-| Day007 <br> 20/02/2018 | Blog App | Revisited every concept used in this blog. I'll implement search engine after some time, so that I can revisite this project again. Next project is Social media clone project. Will fix the two error in the revision. | 1.NF <br> 2.NF | N/A |
+| Day007 <br> 20/02/2018 | Blog App | Revisited every concept used in this blog. I'll implement search engine after some time, so that I can revisit this project again. The next project is a Social media clone project. Will fix the two errors in the revision. | 1.NF <br> 2.NF | N/A |
 
 ----------
 ### Screenshots
