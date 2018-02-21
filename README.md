@@ -10,6 +10,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day005 <br> 18/02/2018 | Blog App | More practice on custom template tags. Learned how to use simple_tag, inclusion_tag, assignment_tag. How to use custom template filters, I used Markdown tempate filter. | 1. NF <br> 2. NF | N/A |
 | Day006 <br> 19/02/2018 | Blog App | Learned how to add a sitemep and it's importance to a site. How to configure and add RSS feed to the site. Started working on adding a search engine with Solr and Haystack | 1. NF <br> 2. NF | N/A |
 | Day007 <br> 20/02/2018 | Blog App | Revisited every concept used in this blog. I'll implement search engine after some time, so that I can revisit this project again. The next project is a Social media clone project. Will fix the two errors in the revision. | 1.NF <br> 2.NF | N/A |
+| Day008 <br> 21/02/2018 | Social Website | Learned how to use Django authentication framework. How to create login view and setting up the urls and template for the login. | 1.NF <br> 2. NF | N/A |
 
 ----------
 ### Screenshots
@@ -35,3 +36,7 @@ I'll edit this README every day when I'll finish working for that day.
 
 **Homepage with RSS feed subscription link. (RSS feed is functioning as you can see in the RSS extention)**
 ![alt text](Screenshots/BlogApp/Screenshot7.png)
+
+#### 2. Social Website
+**Login page**
+![alt text](Screenshots/SocialWebsite/Screenshot1.png)
