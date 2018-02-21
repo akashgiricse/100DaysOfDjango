@@ -65,6 +65,7 @@ def post_detail(request, year, month, day, post):
             new_comment.save()
     else:
         comment_form = CommentForm()
+        new_comment = False
 
     # Lists of similar posts
     post_tags_ids = post.tags.values_list('id', flat=True)
