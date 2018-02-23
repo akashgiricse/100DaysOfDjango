@@ -12,6 +12,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day007 <br> 20/02/2018 | Blog App | Revisited every concept used in this blog. I'll implement search engine after some time, so that I can revisit this project again. The next project is a Social media clone project. Will fix the two errors in the revision. | 1.NF <br> 2.NF | N/A |
 | Day008 <br> 21/02/2018 | Social Website | Learned how to use Django authentication framework. How to create login view and setting up the urls and template for the login. | 1.NF <br> 2. NF | N/A |
 | Day009 <br> 22/02/2018 | Social Website | Learned how to use Django authentication views, how to create login/logout view. | 1. NF <br> 2. NF | N/A |
+| Day010 <br> 23/02/2016 | Social Website | Learned how to use Django authentication views and to implement them in templates. How to set static files path in django setting file. | 1. NF <br> 2. NF | N/A |
 
 ----------
 ### Screenshots
@@ -39,5 +40,12 @@ I'll edit this README every day when I'll finish working for that day.
 ![alt text](Screenshots/BlogApp/Screenshot7.png)
 
 #### 2. Social Website
+
 **Login page**
 ![alt text](Screenshots/SocialWebsite/Screenshot1.png)
+
+**Login Page (without bootstrap, only using css)**
+![alt text](Screenshots/SocialWebsite/Screenshot2.png)
+
+**Dashboard page after login**
+![alt text](Screenshots/SocialWebsite/Screenshot3.png)
