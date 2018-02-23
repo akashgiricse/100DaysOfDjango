@@ -10,6 +10,7 @@ This is an online Blog site made using Django framework.
 * Posts can be shared via email.
 * Site has RSS feeds functionality, you can subscribe to RSS feeds.
 * There is a separate list of latest posts and most commented posts. 
+* There is a similar post list on detailed post view. (Similarity based on tags)
 
 
 ### Getting started with development
