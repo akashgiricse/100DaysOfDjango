@@ -9,8 +9,8 @@ I'll edit this README every day when I'll finish working for that day.
 | Day004 <br> 17/02/2018 | Blog App | Learned how to use custom tempate tags. | 1. Open <br> 2. Open | N/A|
 | Day005 <br> 18/02/2018 | Blog App | More practice on custom template tags. Learned how to use simple_tag, inclusion_tag, assignment_tag. How to use custom template filters, I used Markdown tempate filter. | 1. Open <br> 2. Open | N/A |
 | Day006 <br> 19/02/2018 | Blog App | Learned how to add a sitemep and it's importance to a site. How to coOpenigure and add RSS feed to the site. Started working on adding a search engine with Solr and Haystack | 1. Open <br> 2. Open | N/A |
-| Day007 <br> 20/02/2018 | Blog App | Revisited every concept used in this blog. I'll implement search engine after some time, so that I can revisit this project again. The next project is a Social media clone project. Will fix the two errors in the revision. | 1.Open <br> 2.Open | N/A |
-| Day008 <br> 21/02/2018 | Social Website | Learned how to use Django authentication framework. How to create login view and setting up the urls and template for the login. | 1.Open <br> 2. Open | N/A |
+| Day007 <br> 20/02/2018 | Blog App | Revisited every concept used in this blog. I'll implement search engine after some time, so that I can revisit this project again. The next project is a Social media clone project. Will fix the two errors in the revision. | 1. Open <br> 2. Open | N/A |
+| Day008 <br> 21/02/2018 | Social Website | Learned how to use Django authentication framework. How to create login view and setting up the urls and template for the login. | 1. Open <br> 2. Open | N/A |
 | Day009 <br> 22/02/2018 | Social Website | Learned how to use Django authentication views, how to create login/logout view. | 1. Open <br> 2. Open | N/A |
 | Day010 <br> 23/02/2016 | Social Website | Learned how to use Django authentication views and to implement them in templates. How to set static files path in django setting file. | 1. Open <br> 2. Open | N/A |
 
