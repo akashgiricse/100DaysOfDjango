@@ -13,6 +13,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day008 <br> 21/02/2018 | Social Website | Learned how to use Django authentication framework. How to create login view and setting up the urls and template for the login. | N/A |
 | Day009 <br> 22/02/2018 | Social Website | Learned how to use Django authentication views, how to create login/logout view. | N/A |
 | Day010 <br> 23/02/2016 | Social Website | Learned how to use Django authentication views and to implement them in templates. How to set static files path in django setting file. | N/A |
+| Day011 <br> 24/02/2018 | Social Website | More django authentication views practice. | N/A |
 
 ----------
 ### Screenshots
