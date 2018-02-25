@@ -14,6 +14,8 @@ I'll edit this README every day when I'll finish working for that day.
 | Day009 <br> 22/02/2018 | Social Website | Learned how to use Django authentication views, how to create login/logout view. | N/A |
 | Day010 <br> 23/02/2016 | Social Website | Learned how to use Django authentication views and to implement them in templates. How to set static files path in django setting file. | N/A |
 | Day011 <br> 24/02/2018 | Social Website | More django authentication views practice. | N/A |
+| Day012 <br> 25/02/2018 | Social Website | Learned how to Change password and Reset password using django's inbuild authentication views. How to get a password reset link in the consol. | N/A |
+
 
 ----------
 ### Screenshots
@@ -50,3 +52,10 @@ I'll edit this README every day when I'll finish working for that day.
 
 **Dashboard page after login**
 ![alt text](Screenshots/SocialWebsite/Screenshot3.png)
+
+**Password Reset pages**
+![alt text](Screenshots/SocialWebsite/Screenshot5.jpg)
+
+**Auto generated password reset link in consol**
+![alt text](Screenshots/SocialWebsite/Screenshot6.png)
+
