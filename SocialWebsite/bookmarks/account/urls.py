@@ -21,6 +21,7 @@ urlpatterns = [
     url(r'^password-reset/confirm/(?P<uidb64>[-\w]+)/(?P<token>[-\w]+)/$',
         password_reset_confirm, name='password_reset_confirm'),
     url(r'^password-reset/complete/$', password_reset_complete, name='password_reset_complete'),
+    url(r'^register/$', views.register, name='register')
 
 
 ]
