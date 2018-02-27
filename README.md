@@ -16,7 +16,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day011 <br> 24/02/2018 | Social Website | More django authentication views practice. | N/A |
 | Day012 <br> 25/02/2018 | Social Website | Learned how to Change password and Reset password using django's inbuild authentication views. How to get a password reset link in the consol. | N/A |
 | Day013 <br> 26/02/2018 | Social Website | Learned how to design registration page using django. How to validate user_registration form and render user objects in templates. | N/A |
-| Day012 <br> 27/02/2018 | Social Website | How to manage static Media file, how to extend user model to define our own fields and how to link them with build in user model. | N/A |
+| Day014 <br> 27/02/2018 | Social Website | How to manage static Media file, how to extend user model to define our own fields and how to link them with build in user model. | N/A |
 
 
 
