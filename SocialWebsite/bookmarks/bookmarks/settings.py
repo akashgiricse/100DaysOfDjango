@@ -139,6 +139,12 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 AUTHENTICATION_BACKENDS = (
 
+    'social.backends.twitter.TwitterOAuth',
+
     'django.contrib.auth.backends.ModelBackend',
     'account.authentication.EmailAuthBackend',
 )
+
+
+SOCIAL_AUTH_TWITTER_KEY = 'xxx'
+SOCIAL_AUTH_TWITTER_SECRET = 'xxx'
