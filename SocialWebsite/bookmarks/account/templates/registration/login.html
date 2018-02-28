@@ -20,6 +20,10 @@
 		</form>
 		<p><a href="{% url "password_reset" %}">Forgot your password?</a></p>
 	</div>
-
+    <div class="social">
+        <ul>
+            <li class="twitter"><a href="{% url "social:begin" "twitter" %}">Login with Twitter</a></li>
+        </ul>
+    </div>
 
 {% endblock %}
