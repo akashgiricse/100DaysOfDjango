@@ -25,7 +25,7 @@ SECRET_KEY = '1d_qt5v8*&3+rnzdess7*@bf6-+&#=k974lk@pzcby7$7q%^mt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['socialwebsite.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'social.apps.django_app.default',
+    # 'social.apps.django_app.default',
 
 ]
 
@@ -139,12 +139,12 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 AUTHENTICATION_BACKENDS = (
 
-    'social.backends.twitter.TwitterOAuth',
+    # 'social.backends.twitter.TwitterOAuth',
 
     'django.contrib.auth.backends.ModelBackend',
     'account.authentication.EmailAuthBackend',
 )
 
 
-SOCIAL_AUTH_TWITTER_KEY = 'xxx'
-SOCIAL_AUTH_TWITTER_SECRET = 'xxx'
+# SOCIAL_AUTH_TWITTER_KEY = 'xxx'
+# SOCIAL_AUTH_TWITTER_SECRET = 'xxx'
