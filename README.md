@@ -19,6 +19,8 @@ I'll edit this README every day when I'll finish working for that day.
 | Day014 <br> 27/02/2018 | Social Website | How to manage static Media file, how to extend user model to define our own fields and how to link them with build in user model. User of [Pillow](https://pillow.readthedocs.io/en/latest/) module for handling Images in django. | N/A |
 | Day015 <br> 28/02/2018 | Social Website | How to use custom User model. How to display messages using message framework. How to build a custom authentication backend. How to add social authentication to the site (i.e. Twitter, Google etc) | N/A |
 | Day016 <br> 01/03/2018 | Social Website | More practice on authentication, read docs. | N/A |
+| Day017 <br> 02/03/2018 | Social Website | To create basic Image model. When and why create Index in database. Creating ManyToMany relationship | N/A |
+
 
 
 
