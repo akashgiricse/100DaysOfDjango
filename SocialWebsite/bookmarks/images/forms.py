@@ -18,8 +18,8 @@ class ImageCreateForm(forms.ModelForm):
         valid_extentions = ['jpg', 'jpeg']
         extention = url.rsplit('.', 1)[1].lower()
         if extention is not valid_extentions:
-            raise forms.ValidationErro('The given URL does not match'
-                                       'valid image extention.')
+            raise forms.ValidationError('The given URL does not match'
+                                        'valid image extention.')
         return url
 
     def save(self, force_insert=False,
