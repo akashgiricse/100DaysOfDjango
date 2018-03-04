@@ -7,9 +7,6 @@ from .forms import ImageCreateForm
 
 @login_required
 def image_create(request):
-    """
-    View for creating an Image using the JavaScript Bookmarklet.
-    """
     if request.method == 'POST':
         # form is sent
         form = ImageCreateForm(data=request.POST)

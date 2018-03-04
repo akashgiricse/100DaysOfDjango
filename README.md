@@ -21,6 +21,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day016 <br> 01/03/2018 | Social Website | More practice on authentication, read docs. | N/A |
 | Day017 <br> 02/03/2018 | Social Website | To create basic Image model. When and why create Index in database. Creating ManyToMany relationship | N/A |
 | Day018 <br> 03/03/2018 | Social Website | Validating extentions in form. How to use urllib module to download image | N/A |
+| Day019 <br> 04/03/2018 | Social Website | Learned basics of jQuery. No contribution to the project. | N/A |
 ----------
 ### Screenshots
 ----------
