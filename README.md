@@ -23,6 +23,9 @@ I'll edit this README every day when I'll finish working for that day.
 | Day018 <br> 03/03/2018 | Social Website | Validating extentions in form. How to use urllib module to download image | N/A |
 | Day019 <br> 04/03/2018 | Social Website | Learned basics of jQuery. No contribution to the project. | N/A |
 | Day020 <br> 05/03/2018 | Social Website | Practiced JavaScript. | N/A |
+| Day021 <br> 06/03/2018 | Social Website | Practiced JavaScript. How to implement javascript in template. How bookmarklet works | N/A |
+
+
 ----------
 ### Screenshots
 ----------
