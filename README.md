@@ -29,6 +29,8 @@ I'll edit this README every day when I'll finish working for that day.
 | Day024 <br> 09/03/2018 | Let's Quiz | Learned how to write documentation. How to customize django admin login page. | [Let's Quiz](https://github.com/akashgiricse/lets-quiz/) |
 | Day025 <br> 10/03/2018 | Let's Quiz | Worked on some test cases. For example if user is logged in, he/she should not be able to see registration/signup page again if he/she navigate to the signup page manually in url bar of the browser. And learned how to style forms in template using [django-crispy-forms](http://django-crispy-forms.readthedocs.io/en/latest/). | [Let's Quiz](https://github.com/akashgiricse/lets-quiz/) |
 | Day026 <br> 11/03/2018 | Let's Quiz | Learned how to design custom error 404, 500 page in django. | [Let's Quiz](https://github.com/akashgiricse/lets-quiz/) |
+| Day027 <br> 12/03/2018 | Let's Quiz | Learned web scraping basics, working with JSON files. And how to integrate everythink together, i.e. python, json, scrapped data etc. Revisited "working with files in python" | [Let's Quiz](https://github.com/akashgiricse/lets-quiz/) |
+
 
 ----------
 ### Screenshots
