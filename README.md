@@ -32,7 +32,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day027 <br> 12/03/2018 | Let's Quiz | Learned web scraping basics, working with JSON files. And how to integrate everythink together, i.e. python, json, scrapped data etc. Revisited "working with files in python" | [Let's Quiz](https://github.com/akashgiricse/lets-quiz/) |
 | Day028 <br> 13/03/2018 | Let's Quiz | Wrote a script for getting address data using Google API. Learning web scraping so that I can use it to crawl quiz data from other site to lead it into my site | [Link for work](https://github.com/akashgiricse/ScriptsUsingPython/tree/master/GetAddressDataUsingGoogleAPI) |
 | Day029 <br> 14/03/2018 | Let's Quiz | More web scraping practice, wrote script for finding currency value of other country in terms of USD. More JSON reading/writing data practice.| [Link for work](https://github.com/akashgiricse/ScriptsUsingPython/tree/master/CurrencyValueFinderAPI) |
-| Day030 <br> 15/03/2018 | Let's Quiz | How to define our own custom user model. How to use build in django user model to let the user edit his profile info. How to deal with media files. | Let's Quiz](https://github.com/akashgiricse/lets-quiz/) |
+| Day030 <br> 15/03/2018 | Let's Quiz | How to define our own custom user model. How to use build in django user model to let the user edit his profile info. How to deal with media files. | [Let's Quiz](https://github.com/akashgiricse/lets-quiz/) |
 
 
 
