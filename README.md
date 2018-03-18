@@ -35,8 +35,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day030 <br> 15/03/2018 | Let's Quiz | How to define our own custom user model. How to use build in django user model to let the user edit his profile info. How to deal with media files. | [Let's Quiz](https://github.com/akashgiricse/lets-quiz/) |
 | Day031 <br> 16/03/2018 | Let's Quiz | More web scraping practice. | [Link for work](https://github.com/akashgiricse/ScriptsUsingPython/tree/master/1.HelpMaterial/BeautifulSoutAndRequests/ScrapeCoreyMS.com) |
 | Day032 <br> 17/03/2018 | Let's Quiz | Finished first three chapters of Two Scoops of Django. Learned what is the importance of PostgreSQL over SQLite3, learned importance of virtualenv, virtualenvwrapper, version control in more detail. Learned how to lay out Django projects in chapter 3. | N/A |
-
-
+| Day033 <br> 18/03/2018 | Blog App | Worked on front-end. | [Blog App](https://github.com/akashgiricse/100DaysOfDjango/tree/master/BlogApp) |
 
 
 ----------
