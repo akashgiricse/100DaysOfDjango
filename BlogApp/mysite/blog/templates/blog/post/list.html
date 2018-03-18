@@ -20,13 +20,13 @@
 		 	Tags: 
 		 	{% for tag in post.tags.all %}
 		 		<a href="{% url "blog:post_list_by_tag" tag.slug %}"> 
-		 			{{ tag.name }}
+		 			<span class="badge badge-primary">{{ tag.name }}</span>
 		 		</a>
 		 		{% if not forloop.last %}, {% endif %}
 		 	{% endfor %}
 		 </p>
 		 <p class="date text-danger">
-		 	Published {{ post.publish}} by {{ post.author }}
+		 	Published {{ post.publish}} by <span class="badge badge-dark font-italic">{{ post.author }}</span>
 		 </p>
 		 {{ post.body|markdown|truncatewords_html:30 }}
 	 {% endfor %}
