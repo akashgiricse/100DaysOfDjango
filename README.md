@@ -37,6 +37,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day032 <br> 17/03/2018 | Let's Quiz | Finished first three chapters of Two Scoops of Django. Learned what is the importance of PostgreSQL over SQLite3, learned importance of virtualenv, virtualenvwrapper, version control in more detail. Learned how to lay out Django projects in chapter 3. | N/A |
 | Day033 <br> 18/03/2018 | Blog App | Worked on front-end. | [Blog App](https://github.com/akashgiricse/100DaysOfDjango/tree/master/BlogApp) |
 | Day034 <br> 19/03/2018 | Let's Quiz | Finished chapter 4,5 of Two Scoops of Django. Learned how to configure multiple settings files and what is importance using multiple settings files. | N/A |
+| Day035 <br> 20/03/2018 | Let's Quiz | Started chapter 6 of Two Scoops of Django. Learned type of model inheritance i.e. [Abstract base classes](https://docs.djangoproject.com/en/1.11/topics/db/models/#abstract-base-classes), [Multi-table inheritance](https://docs.djangoproject.com/en/1.11/topics/db/models/#multi-table-inheritance) and [Proxy models](https://docs.djangoproject.com/en/1.11/topics/db/models/#proxy-models). | N/A |
 
 
 ----------
