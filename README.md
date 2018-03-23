@@ -40,6 +40,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day035 <br> 20/03/2018 | Let's Quiz | Started chapter 6 of Two Scoops of Django. Learned type of model inheritance i.e. [Abstract base classes](https://docs.djangoproject.com/en/1.11/topics/db/models/#abstract-base-classes), [Multi-table inheritance](https://docs.djangoproject.com/en/1.11/topics/db/models/#multi-table-inheritance) and [Proxy models](https://docs.djangoproject.com/en/1.11/topics/db/models/#proxy-models). | N/A |
 | Day036 <br> 21/03/2018 | Let's Quiz | Studied how to design an efficient Model in Django, Database Migrations, [Relational Database Design/Normalization](https://en.wikibooks.org/wiki/Relational_Database_Design/Normalization), Model Managers. | N/A |
 | Day037 <br> 22/03/2018 | Let's Quiz | Finished chapter 6 of Two Scoops of Django. Started chapter 7 i.e. Queries and Database Layer | N/A |
+| Day038 <br> 23/03/2018 | Let's Quiz | Finished chapter 7 of Two Scoops of Django. | N/A |
 
 
 ----------
