@@ -43,6 +43,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day038 <br> 23/03/2018 | Let's Quiz | Read more of chapter 7 of Two Scoops of Django. | N/A |
 | Day039 <br> 24/03/2018 | Let's Quiz | Finished chapter 7 of Two Scoops of Django. | N/A |
 | Day040 <br> 25/03/2018 | Twitter Clone | Started new project | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day041 <br> 26/03/2018 | Twitter Clone | Learned how to setup settings, server static files, integrate Bootstrap  | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 
 
 
