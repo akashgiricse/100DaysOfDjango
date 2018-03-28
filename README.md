@@ -44,6 +44,8 @@ I'll edit this README every day when I'll finish working for that day.
 | Day039 <br> 24/03/2018 | Let's Quiz | Finished chapter 7 of Two Scoops of Django. | N/A |
 | Day040 <br> 25/03/2018 | Twitter Clone | Started new project | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day041 <br> 26/03/2018 | Twitter Clone | Learned how to setup settings, server static files, integrate Bootstrap  | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day042 <br> 27/03/2018 | Twitter Clone | Started chapter 8 of Two Scoops of Django. | N/A |
+| Day043 <br> 28/03/2018 | Twitter Clone | Types of model fields. Naming of Model Class and fields. auto_now vs auto_add_now date field.  | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 
 
 
