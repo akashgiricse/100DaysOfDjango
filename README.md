@@ -46,7 +46,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day041 <br> 26/03/2018 | Twitter Clone | Learned how to setup settings, server static files, integrate Bootstrap  | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day042 <br> 27/03/2018 | Twitter Clone | Started chapter 8 of Two Scoops of Django. | N/A |
 | Day043 <br> 28/03/2018 | Twitter Clone | Types of model fields. Naming of Model Class and fields. auto_now vs auto_add_now date field.  | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
-
+| Day044 <br> 29/03/2018 | Twitter Clone | Correct way to connect user with a model using ForeignKey. Chapter 8th of Two Scoops of Django continued. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 
 
 ----------
