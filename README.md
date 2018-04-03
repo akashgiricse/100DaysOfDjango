@@ -50,6 +50,8 @@ I'll edit this README every day when I'll finish working for that day.
 | Day045 <br> 30/03/2018 | Let's Quiz | Worked on some admin permissions and static files configuration | [Let's Quiz](https://github.com/akashgiricse/lets-quiz/) |
 | Day046 <br> 31/03/2018 | Twitter Clone | Worked on class based view, render querset to template and query database | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day047 <br> 01/04/2018 | Twitter Clone | Practice regex in python. How to add dynamic url in django and get context data in class based view. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day048 <br> 02/04/2018 | Twitter Clone | More practise on dynamic url and function based view. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day049 <br> 03/04/2018 | Twitter Clone | Form validation, Validation in models, Designing custom validation functions in model or in different file i.e. validators.py. CreateView.  | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 
 ----------
 ### Screenshots
