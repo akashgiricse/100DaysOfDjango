@@ -56,6 +56,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day051 <br> 05/04/2018 | Twitter Clone | Worked on more class based views i.e CreateView. User validation and Login required mixins| [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day052 <br> 06/04/2018 | Twitter Clone | More reading. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day053 <br> 07/04/2018 | Twitter Clone | Worked on Reverse URLs, UserOwnerMixins. And finished final stage of CRUD i.e. TweetDeleteView | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day054 <br> 08/04/2018 | Twitter Clone | Worked on Searching content by adding search form in template. Read Q lookups | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 
 ----------
 ### Screenshots
