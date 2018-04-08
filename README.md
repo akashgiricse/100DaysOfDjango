@@ -52,7 +52,9 @@ I'll edit this README every day when I'll finish working for that day.
 | Day047 <br> 01/04/2018 | Twitter Clone | Practice regex in python. How to add dynamic url in django and get context data in class based view. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day048 <br> 02/04/2018 | Twitter Clone | More practise on dynamic url and function based view. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day049 <br> 03/04/2018 | Twitter Clone | Form validation, Validation in models, Designing custom validation functions in model or in different file i.e. validators.py. CreateView.  | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
-| Day050 <br> 04/04/2018 | Twitter Clone | More Two Scoops of Django reading today.| [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day050 <br> 04/04/2018 | Twitter Clone | More Two Scoops of Django reading today.| N/A |
+| Day051 <br> 05/04/2018 | Twitter Clone | Worked on more class based views i.e CreateView. User validation and Login required mixins| [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+----------
 ----------
 ### Screenshots
 ----------
