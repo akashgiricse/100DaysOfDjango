@@ -58,6 +58,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day053 <br> 07/04/2018 | Twitter Clone | Worked on Reverse URLs, UserOwnerMixins. And finished final stage of CRUD i.e. TweetDeleteView | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day054 <br> 08/04/2018 | Twitter Clone | Worked on Searching content by adding search form in template. Read Q lookups | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day055 <br> 09/04/2018 | Twitter Clone | Worked on template inheritance. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day056 <br> 10/04/2018 | Twitter Clone | Finished chapter 8 of Two Scoops of Django. | N/A |
 
 ----------
 ### Screenshots
