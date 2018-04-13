@@ -61,6 +61,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day056 <br> 10/04/2018 | Twitter Clone | Finished chapter 8 of Two Scoops of Django. | N/A |
 | Day057 <br> 11/04/2018 | Twitter Clone | Worked on front-end mainly i.e bootstrap containers, columns and navigation.| [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day058 <br> 12/04/2018 | Twitter Clone | Worked on forms to GET/POST requests. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day059 <br> 13/04/2018 | Twitter Clone | Only reading today. | N/A |
 
 ----------
 ### Screenshots
