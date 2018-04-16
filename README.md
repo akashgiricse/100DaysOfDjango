@@ -63,7 +63,8 @@ I'll edit this README every day when I'll finish working for that day.
 | Day058 <br> 12/04/2018 | Twitter Clone | Worked on forms to GET/POST requests. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day059 <br> 13/04/2018 | Twitter Clone | Only reading today. | N/A |
 | Day060 <br> 14/04/2018 | Twitter Clone | Worked on fron-end and third party apps for front-end, created some basic tests for our database. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
-| Day061 <br> 15/04/2018 | Twitter Clone | Started working with Django-REST API. Created first api for getting tweet list. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day061 <br> 15/04/2018 | Twitter Clone | Started working with Django-REST framework. Created first api for getting tweet list. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day062 <br> 16/04/2018 | Twitter Clone | More Django-REST framework practice. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 
 
 ----------
