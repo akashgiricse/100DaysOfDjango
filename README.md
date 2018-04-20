@@ -67,7 +67,8 @@ I'll edit this README every day when I'll finish working for that day.
 | Day062 <br> 16/04/2018 | Twitter Clone | More Django-REST framework practice. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day063 <br> 17/04/2018 | Twitter Clone | Started working with Ajax | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day064 <br> 18/04/2018 | Twitter Clone | More Ajax practice. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
-| Day065 <br> 19/04/2018 | Twitter Clone | Only reading today. Started chapter 9 of Two Scoops of Django. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
+| Day065 <br> 19/04/2018 | Twitter Clone | Only reading today. Started chapter 9 of Two Scoops of Django. | N/A |
+| Day066 <br> 20/04/2018 | Twitter Clone | Chapter 9 continued. | N/A |
 
 
 ----------
