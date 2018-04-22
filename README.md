@@ -70,7 +70,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day065 <br> 19/04/2018 | Twitter Clone | Only reading today. Started chapter 9 of Two Scoops of Django. | N/A |
 | Day066 <br> 20/04/2018 | Twitter Clone | Chapter 9 continued. | N/A |
 | Day067 <br> 21/04/2018 | Twitter Clone | Finished chapter 9. Started chapter 10 i.e "Best Practices for Class-Based Views" | N/A |
-
+| Day068 <br> 22/04/2018 | Twitter Clone | Chapter 9 continued. | N/A |
 ----------
 ### Screenshots
 ----------
