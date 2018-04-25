@@ -73,6 +73,8 @@ I'll edit this README every day when I'll finish working for that day.
 | Day068 <br> 22/04/2018 | Twitter Clone | Chapter 9 continued. | N/A |
 | Day069 <br> 23/04/2018 | Twitter Clone | Implemented jQuery for searching, parsing and listing the tweets. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day070 <br> 24/04/2018 | Twitter Clone | Finished chapter 9. | N/A |
+| Day071 <br> 25/04/2018 | Twitter Clone | Started chapter 10 | N/A |
+
 ----------
 ### Screenshots
 ----------
