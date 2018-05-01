@@ -76,7 +76,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day071 <br> 25/04/2018 | Twitter Clone | Started chapter 10 | N/A |
 | Day072 <br> 26/04/2018 | Twitter Clone | More chapter 10 reading. Read about Django CBVs, GCBVs. | N/A |
 | Day073 <br> 27/04/2018 | Twitter Clone | Finished chapter 10. Started chapter 11 i.e Common Patterns for Forms | N/A |
-
+| Day074 <br> 28/04/2018 | Twitter Clone | Started chapter 11 i.e. common patterns for form. | N/A |
 ----------
 ### Screenshots
 ----------
