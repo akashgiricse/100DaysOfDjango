@@ -80,6 +80,9 @@ I'll edit this README every day when I'll finish working for that day.
 | Day075 <br> 29/04/2018 | Twitter Clone | More chapter 11 reading this day. Finished the chapter also.| N/A |
 | Day076 <br> 30/04/2018 | Twitter Clone | Started chapter 12 i.e. Forms Fundamentals | N/A |
 | Day077 <br> 01/05/2018 | Twitter Clone | Finished chapter 12. Learned how to protect form data. Error handling in form. Forms widgets. | N/A |
+| Day078 <br> 02/05/2018 | Twitter Clone | Read about templates in chapter 13 of Two scoops of Django. Read about template architectrue, quiries in templates etc. | N/A |
+| Day079 <br> 03/05/2018 | Twitter Clone | More teplate practices, read about Template Inheritance and other useful stuff related to templates. | N/A |
+| Day080 <br> 04/05/2018 | Twitter Clone | Started reading about template tags and filters | N/A |
 ----------
 ### Screenshots
 ----------
