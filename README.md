@@ -84,6 +84,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day079 <br> 03/05/2018 | Twitter Clone | More teplate practices, read about Template Inheritance and other useful stuff related to templates. | N/A |
 | Day080 <br> 04/05/2018 | Twitter Clone | Started reading about template tags and filters | N/A |
 | Day081 <br> 05/05/2018 | Twitter Clone | Finished chapter 14. | N/A |
+| Day082 <br> 06/05/2018 | Twitter Clone | Started chapter 15 i.e. Django Templates and Jinja2 | N/A |
 
 ----------
 ### Screenshots
