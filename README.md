@@ -90,6 +90,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day085 <br> 09/05/2018 | Twitter Clone |  Worked with JQuery form, Ajax and CreateAPI view | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day086 <br> 10/05/2018 | Twitter Clone | Read about REST API Architecture, Remote Procedure Calls vs REST API etc. Finished chapter 16. | N/A |
 | Day087 <br> 11/05/2018 | Twitter Clone | Started chapter 17 i.e. Consuming REST APIs. | N/A |
+| Day088 <br> 12/05/2018 | Twitter Clone | Read about AJAX and the CSRF Token improving JavaScript Skills | N/A |
 
 ----------
 ### Screenshots
