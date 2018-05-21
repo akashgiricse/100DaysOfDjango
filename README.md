@@ -97,6 +97,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day092 <br> 16/05/2018 | Twitter Clone | More Ajax practice, Attach Tweet and Empty form. | [TwitterClone](https://github.com/akashgiricse/TwitterClone) |
 | Day093 <br> 17/05/2018 | Twitter Clone | Finished chapter 19. Started chapter 20 i.e. Dealing with the User Model | N/A |
 | Day094 <br> 18/05/2018 | Twitter Clone | Chapter 20 continued. | N/A |
+| Day095 <br> 19/05/2018 | Django Mail | Created a simple Django app for sending mail using smtp server | [Django Mail](https://github.com/akashgiricse/django_mail) |
 ----------
 ### Screenshots
 ----------
