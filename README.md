@@ -100,6 +100,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day095 <br> 19/05/2018 | Django Mail | Created a simple Django app for sending mail using smtp server | [Django Mail](https://github.com/akashgiricse/django_mail) |
 | Day096 <br> 20/05/2018 | Twitter Clone | Finished chapter 20 | N/A |
 | Day097 <br> 21/05/2018 | Twitter Clone | Started chapter 21 | N/A |
+| Day098 <br> 22/05/2018 | Twitter Clone | Finished chapter 21 and started chapter 22 i.e. Testing Stinks and Is a Waste of Money! | N/A |
 ----------
 ### Screenshots
 ----------
