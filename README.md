@@ -102,6 +102,7 @@ I'll edit this README every day when I'll finish working for that day.
 | Day097 <br> 21/05/2018 | Twitter Clone | Started chapter 21 | N/A |
 | Day098 <br> 22/05/2018 | Twitter Clone | Finished chapter 21 and started chapter 22 i.e. Testing Stinks and Is a Waste of Money! | N/A |
 | Day099 <br> 23/05/2018 | Twitter Clone | Finished chapter 22. | N/A |
+| Day100 <br> 24/05/2018 | 100 Days Complete | Congratulations to myself on completing 100DaysOfDjango challenge ;) <br> The overall experience was good but I got a little slow in the end. I hope next round of challenge will be more productive than this. <br> I learned a lot throughout this challenge. I also build a habit to code on the daily basis. I learned what mistakes I made during this challenge which will not be repeated in the next round of the challenge.<br> If you too want to start this challenge, please visit [#100DaysOfCode Official Website](http://www.100daysofcode.com/) | N/A |
 ----------
 ### Screenshots
 ----------
