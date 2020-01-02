@@ -18,7 +18,7 @@ ptyprocess==0.5.2
 Pygments==2.2.0
 pysolr==3.3.2
 pytz==2017.3
-requests==2.18.4
+requests==2.20.0
 simplegeneric==0.8.1
 six==1.11.0
 traitlets==4.3.2
